@@ -6,15 +6,13 @@ This software displays the message "Hello World!" to the terminal in yellow lett
 
 This software was created to meet the requirements of an academic assignment.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=ZY8mD4Qi3_A)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the latest version of Visual Studio Code to create this program.
 
-{Describe the programming language that you used}
+This program is written in Python 3.
 
 # Useful Websites
 
